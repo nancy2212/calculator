@@ -2,5 +2,5 @@
 Welcome to python code
 
 calculator
-stopwatch
+
 Will know more about calculator and stopwatch in future
